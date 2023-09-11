@@ -12,3 +12,11 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.galerry-img {
+  width: 100%;
+}
+
+#galerry .row > * {
+  padding: 0;
+}
